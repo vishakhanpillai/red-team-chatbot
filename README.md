@@ -34,9 +34,9 @@ Check out the chatbot hosted on Hugging Face Spaces:
    source venv/bin/activate
    ```
 3. **Install Dependencies**
-  ```bash
+   ```bash
      pip install -r requirements.txt
-  ```
+   ```
 4. **Run the Application**
    ```bash
    python app.py
