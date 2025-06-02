@@ -35,7 +35,7 @@ Check out the chatbot hosted on Hugging Face Spaces:
    ```
 3. **Install Dependencies**
   ```bash
-  pip install -r requirements.txt
+     pip install -r requirements.txt
   ```
 4. **Run the Application**
    ```bash
@@ -55,9 +55,9 @@ Check out the chatbot hosted on Hugging Face Spaces:
    venv/Scripts/activate
    ```
 3. **Install Dependencies**
-  ```cmd
-  pip install -r requirements.txt
-  ```
+   ```cmd
+     pip install -r requirements.txt
+   ```
 4. **Run the Application**
    ```cmd
    python app.py
